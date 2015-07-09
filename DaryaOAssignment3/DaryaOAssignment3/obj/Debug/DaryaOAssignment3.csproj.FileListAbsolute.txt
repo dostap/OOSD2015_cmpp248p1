@@ -1,0 +1,9 @@
+C:\Users\689508\Documents\Visual Studio 2012\Projects\DaryaOAssignment3\DaryaOAssignment3\bin\Debug\DaryaOAssignment1.exe.config
+C:\Users\689508\Documents\Visual Studio 2012\Projects\DaryaOAssignment3\DaryaOAssignment3\bin\Debug\DaryaOAssignment1.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\DaryaOAssignment3\DaryaOAssignment3\bin\Debug\DaryaOAssignment1.pdb
+C:\Users\689508\Documents\Visual Studio 2012\Projects\DaryaOAssignment3\DaryaOAssignment3\obj\Debug\DaryaOAssignment1.frmCalculateMark.resources
+C:\Users\689508\Documents\Visual Studio 2012\Projects\DaryaOAssignment3\DaryaOAssignment3\obj\Debug\DaryaOAssignment1.Properties.Resources.resources
+C:\Users\689508\Documents\Visual Studio 2012\Projects\DaryaOAssignment3\DaryaOAssignment3\obj\Debug\DaryaOAssignment3.csproj.GenerateResource.Cache
+C:\Users\689508\Documents\Visual Studio 2012\Projects\DaryaOAssignment3\DaryaOAssignment3\obj\Debug\DaryaOAssignment1.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\DaryaOAssignment3\DaryaOAssignment3\obj\Debug\DaryaOAssignment1.pdb
+C:\Users\689508\Documents\Visual Studio 2012\Projects\DaryaOAssignment3\DaryaOAssignment3\obj\Debug\DaryaOAssignment3.csprojResolveAssemblyReference.cache
